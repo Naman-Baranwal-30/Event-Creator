@@ -1,0 +1,2 @@
+# Event-Creator
+I Created a website for Event planning.It has features of creating an event with all the basic requirements of that event. The user can Create ,Edit and Delete Events and also add the core members responsible for that event in which Also there is an option of editing and deleting the members. This will be very useful while organizing college events in which there is a lot of data that needs to be stored and updated regularly and there also maybe a lot of last moment changes that need to be made in the event.
